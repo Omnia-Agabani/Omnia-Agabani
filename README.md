@@ -8,7 +8,6 @@ Enjoying life and taking risks to see what could happen next.
 ## Languages
 
 - Arabic
-
 - English
 
 ## Technologies
