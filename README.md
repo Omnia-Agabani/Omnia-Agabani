@@ -2,19 +2,42 @@
 
 ## About Me
 
-I'm Omnia Mustafa - Abdulgadir, Electronics engineering fresh graduate and an entrepreneur.
-Enjoying life and taking risks to see what could happen next.
+I'm Omnia Mustafa - Abdulgadir, Electronics Engineer recent graduate and an entrepreneur.
+Enrolled in MIT Emerging Talent Foundations Track for Data science.
+And hopefully, I will be enrolled in Certificate program soon.
+
+## Technical Skills
+
+### Programming Languages
+
+- Python
+- C/C++
+
+### Engineering Skills
+
+- Embedded Systems
+- Micro-controllers
+- Real-Time Systems
+- PLC Systems
+- Fuzzy Systems
+- Neural Networks
+- Cisco Packet Tracer
+
+### Business Tools
+
+- MS Excel
+- MS PowerPoint
+- Meta Business Suite
 
 ## Languages
 
 - Arabic
 - English
 
-## Technologies
+## Education
 
-- MS Excel
-- MS PowerPoint
-- Meta Business Suit
+- Bachelor of Engineering, Electronics Engineering
+  Sudan University of Science and Technology (2023)
 
 ## Industries
 
@@ -22,21 +45,38 @@ Enjoying life and taking risks to see what could happen next.
 - Entrepreneurship
 - Fashion Design
 - Food and Beverages
+- Customer Experience
 
-## WORK HISTORY
+## Professional Experience
 
-### Co-Founder | Designer
+- Customer Experience (Al Burj Holding)
+- Aviation (Zayed International Airport)
+- Co-Founder | Fashion Design (Beloor Fashion House)
+- Business Owner | Food & Beverage Industry (Shawarma Labash)
 
-#### Beloor Fashion House, Khartoum - Sudan (2021-2023)
+## Certifications & Courses
 
-- Develop and implement business growth strategies and plans
-- Negotiate deals and agreements with suppliers and investors
-- Design modest fashion items, contributing to product line expansion
+- Element of AI, University of Helsinki (2020)
+- Online Marketing, Google (2020)
+- SANAD Incubation Program, 249 Startups (2023)
+- Basic Laptop Maintenance, New Horizon Training Center (2020)
 
-### Business Owner | Chef
+## Awards & Achievements
 
-#### Shawarma LAbash, Khartoum - Sudan (2020-2021)
+- GXA of the Month, Zayed International Airport (2024)
+- Appreciation, Mechatronics Engineering Inventors (2022)
+- Hult Prize Competitor (2020)
 
-- Formulate and execute business growth strategies
-- Manage financial operations and performance tracking
-- Developed and refined product recipes, enhancing menu offerings
+## Currently Learning
+
+- Data Science through MIT Emerging Talent Program
+- Advanced Python Programming
+- Machine Learning Fundamentals
+
+## How to Reach Me
+
+- Email: <omniaagabani99@gmail.com>
+- LinkedIn: [Omnia Mustafa](https://www.linkedin.com/in/omniamustafa)
+
+**Enjoying life and taking risks to see what could happen next.**
+**I do believe I will be able to make a difference in the world.**
