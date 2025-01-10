@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Omnia Mustafa - Abdulgadir, Electronics Engineer recent graduate and an entrepreneur.
+Electronics Engineer recent graduate and an entrepreneur.
 Enrolled in MIT Emerging Talent Foundations Track for Data science.
 And hopefully, I will be enrolled in Certificate program soon.
 
