@@ -10,12 +10,12 @@ technical skills through global programs like MIT Emerging Talent.
 
 ## Technical Skills
 
--	Programming Languages: Python, C, C++
--	Embedded Systems: Microcontrollers, Real-Time Systems, PLC Systems
--	AI/ML Concepts: Fuzzy Logic Systems, Neural Networks
--	Tools & Platforms: Cisco Packet Tracer, MS Excel, MS PowerPoint, Meta Business Suite
--	Soft Skills: Communication, Team Leadership, Operations Management
-
+- Programming Languages: Python, C, C++
+- Embedded Systems: Microcontrollers, Real-Time Systems, PLC Systems
+- AI/ML Concepts: Fuzzy Logic Systems, Neural Networks
+- Tools & Platforms: Cisco Packet Tracer,
+MS Excel, MS PowerPoint, Meta Business Suite
+- Soft Skills: Communication, Team Leadership, Operations Management
 
 ## Languages
 
@@ -44,24 +44,24 @@ technical skills through global programs like MIT Emerging Talent.
 
 - Co-Founder & Fashion Designer
   
-Beloor Fashion House, Khartoum, Sudan 					                     (2021 – 2023)
+Beloor Fashion House, Khartoum, Sudan                           (2021 – 2023)
+
 - Business Owner & Head Chef
   
-Shawarma Labash, Khartoum, Sudan 						                         (2020 – 2021)
-
+Shawarma Labash, Khartoum, Sudan                                (2020 – 2021)
 
 ## Certifications & Courses
 
--	Certificate in Computer and Data Science, MIT Emerging Talent		   (In Progress)
--	Intro to Computational Thinking and Data Science, EDX (MITx)		 	 (2025)
--	Intro to Computer Science & Programming Using Python, EDX (MITx) 	 (2025)
--	Foundation Track Program, MIT Emerging Talent 					           (2025)
--	SANAD Incubation Program, 249 Startups 				                   	 (2023)
--	Elements of AI, University of Helsinki 					                 	 (2020)
--	Online Marketing, Google								                           (2020)
--	Basics of Laptop Maintenance, New Horizon Training Center			     (2020)
--	Management Courses, Alserag Almoneer Center					               (2018)
--	Microcontroller Programming, Abdelbary Center					             (2017)
+- Certificate in Computer and Data Science, MIT Emerging Talent     (In Progress)
+- Intro to Computational Thinking and Data Science, EDX (MITx)     (2025)
+- Intro to Computer Science & Programming Using Python, EDX (MITx)   (2025)
+- Foundation Track Program, MIT Emerging Talent                 (2025)
+- SANAD Incubation Program, 249 Startups                          (2023)
+- Elements of AI, University of Helsinki                         (2020)
+- Online Marketing, Google                                   (2020)
+- Basics of Laptop Maintenance, New Horizon Training Center        (2020)
+- Management Courses, Alserag Almoneer Center                    (2018)
+- Microcontroller Programming, Abdelbary Center                  (2017)
 
 ## Awards & Achievements
 
