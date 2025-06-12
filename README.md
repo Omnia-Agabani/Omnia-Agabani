@@ -2,32 +2,20 @@
 
 ## About Me
 
-Electronics Engineer recent graduate and an entrepreneur.
-Enrolled in MIT Emerging Talent Certification Program for Data science.
-And hopefully, I will be enrolled in Certificate program soon.
+Electronics Engineer with a strong foundation in embedded systems,
+real-time programming, and AI principles. Adept in customer service,
+team leadership, and cross-functional roles with entrepreneurial
+experience in fashion and food businesses. Currently enhancing
+technical skills through global programs like MIT Emerging Talent.
 
 ## Technical Skills
 
-### Programming Languages
+-	Programming Languages: Python, C, C++
+-	Embedded Systems: Microcontrollers, Real-Time Systems, PLC Systems
+-	AI/ML Concepts: Fuzzy Logic Systems, Neural Networks
+-	Tools & Platforms: Cisco Packet Tracer, MS Excel, MS PowerPoint, Meta Business Suite
+-	Soft Skills: Communication, Team Leadership, Operations Management
 
-- Python
-- C/C++
-
-### Engineering Skills
-
-- Embedded Systems
-- Micro-controllers
-- Real-Time Systems
-- PLC Systems
-- Fuzzy Systems
-- Neural Networks
-- Cisco Packet Tracer
-
-### Business Tools
-
-- MS Excel
-- MS PowerPoint
-- Meta Business Suite
 
 ## Languages
 
@@ -51,21 +39,35 @@ And hopefully, I will be enrolled in Certificate program soon.
 
 - Customer Experience (Al Burj Holding)
 - Aviation (Zayed International Airport)
-- Co-Founder | Fashion Design (Beloor Fashion House)
-- Business Owner | Food & Beverage Industry (Shawarma Labash)
+  
+## Business & Entrepreneurial Experience
+
+- Co-Founder & Fashion Designer
+  
+Beloor Fashion House, Khartoum, Sudan 					                     (2021 – 2023)
+- Business Owner & Head Chef
+  
+Shawarma Labash, Khartoum, Sudan 						                         (2020 – 2021)
+
 
 ## Certifications & Courses
 
-- Element of AI, University of Helsinki (2020)
-- Online Marketing, Google (2020)
-- SANAD Incubation Program, 249 Startups (2023)
-- Basic Laptop Maintenance, New Horizon Training Center (2020)
+-	Certificate in Computer and Data Science, MIT Emerging Talent		   (In Progress)
+-	Intro to Computational Thinking and Data Science, EDX (MITx)		 	 (2025)
+-	Intro to Computer Science & Programming Using Python, EDX (MITx) 	 (2025)
+-	Foundation Track Program, MIT Emerging Talent 					           (2025)
+-	SANAD Incubation Program, 249 Startups 				                   	 (2023)
+-	Elements of AI, University of Helsinki 					                 	 (2020)
+-	Online Marketing, Google								                           (2020)
+-	Basics of Laptop Maintenance, New Horizon Training Center			     (2020)
+-	Management Courses, Alserag Almoneer Center					               (2018)
+-	Microcontroller Programming, Abdelbary Center					             (2017)
 
 ## Awards & Achievements
 
-- GXA of the Month, Zayed International Airport (2024)
-- Appreciation, Mechatronics Engineering Inventors (2022)
-- Hult Prize Competitor (2020)
+- GXA of the Month, Zayed International Airport                      (2024)
+- Appreciation, Mechatronics Engineering Inventors                   (2022)
+- Hult Prize Competitor                                              (2020)
 
 ## Currently Learning
 
