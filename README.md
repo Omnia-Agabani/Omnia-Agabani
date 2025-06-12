@@ -3,7 +3,7 @@
 ## About Me
 
 Electronics Engineer recent graduate and an entrepreneur.
-Enrolled in MIT Emerging Talent Foundations Track for Data science.
+Enrolled in MIT Emerging Talent Certification Program for Data science.
 And hopefully, I will be enrolled in Certificate program soon.
 
 ## Technical Skills
